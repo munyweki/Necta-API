@@ -4,7 +4,7 @@ A PHP Class used to fetch results of various national examinations in Tanzania
 ## Installation
 ```php
 //Include the Necta-API Class in your project
-require_once ('necta_api.php');
+require_once ('path_to_/necta_api.php');
 //Create a new instance of the Necta-API Class
 $necta = new NectaAPI();
 ```
